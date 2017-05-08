@@ -2,6 +2,7 @@
 #include "stdbool.h"
 #include "stdlib.h"
 #include "string.h"
+#include "mxconstants.h"
 
 #define driverHWSPI1DefaultTimout										100
 
